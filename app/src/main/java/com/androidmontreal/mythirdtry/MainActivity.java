@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
          new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               textView.setText("Some random thing.");
+               textView.setText("Some less random thing.");
             }
          });
    }
