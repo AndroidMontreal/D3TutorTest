@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My third try</string>
+    <string name="hello_world">Salut le monde!</string>
+    <string name="action_settings">Parametre</string>
+    <string name="buttonText">ok ok</string>
+</resources>
